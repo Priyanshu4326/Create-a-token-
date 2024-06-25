@@ -1,7 +1,9 @@
 MyToken Smart Contract
+
 This smart contract implements a basic ERC-20 token with minting and burning functionalities. It is written in Solidity and is compatible with Solidity version 0.8.18.
 
 Contract Overview
+
 The contract provides the following features:
 
 Public variables to store token details (name, abbreviation, and total supply).
